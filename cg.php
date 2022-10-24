@@ -96,11 +96,11 @@ echo $ban="
  \033[1;95m| |  | |/ _ \| '__| __/ _ \| |  | |/ _ \| '__|
  \033[1;94m| |__| | (_) | |  | || (_) | |__| | (_) | |   
  \033[1;96m|_____/ \___/|_|   \__\___/|_____/ \___/|_|   
-                                            \033[1;97m   versi: xnx 
+                                            \033[1;97m     versi: Cg1
            Kopi & Rokok adalah jalan ninjaku
 \033[1;92m
-User : @User
-Password : xxxxxxx\n";
+User: @User
+Password: xxxxxxx\n";
 echo str_repeat("\033[1;93m◼",50)."\n\n";
 }
 $l = str_repeat("_", 50)."\n\n";
